@@ -1,0 +1,29 @@
+/*Aqui empieza el section y sus estilos*/
+section {
+    width: 50%;
+    background-color: rgba(42, 42, 42, 255);
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+
+#articulo1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    margin: 10px;
+}
+a{
+    align-items: center;
+}
+.uefa{
+    height: 195px;
+}
+.national{
+    height: 285px;
+}
+/*Aqui finaliza el section y sus estilos*/

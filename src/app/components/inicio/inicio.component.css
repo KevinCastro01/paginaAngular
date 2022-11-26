@@ -1,0 +1,34 @@
+/*Aqui empieza el section y sus estilos*/
+section {
+    width: 50%;
+    background-color: rgba(42, 42, 42, 255);
+    border-radius: 10px;
+    text-align: center;
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+#articulo1 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#imagenes {
+    width: 100%;
+}
+
+img {
+    height: 260px;
+    margin-top: 10px;
+    border-radius: 10px;
+
+}
+
+p {
+    color: white;
+}
+h5{
+    color: white;
+}
+/*Aqui finaliza el section y sus estilos*/

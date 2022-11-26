@@ -1,0 +1,35 @@
+/*Aqui empieza el aside y sus estilos*/
+aside {
+    width: 40%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 100px;
+    float: right;
+    background-color:  rgba(42, 42, 42, 255);
+    border-radius: 10px;
+    color: white;
+}
+
+#cabezaDelAside {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#cuerpoDelAside {
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+}
+
+#h6Aside {
+    margin-left: 20px;
+}
+
+#imgAside {
+    width: 80px;
+    height: 70px;
+}
+a{
+    margin-top: 10px;
+}
